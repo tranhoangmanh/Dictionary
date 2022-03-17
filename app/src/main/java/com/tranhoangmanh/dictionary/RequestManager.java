@@ -61,7 +61,7 @@ public class RequestManager {
         }catch (Exception e)
         {
             e.printStackTrace();
-            Toast.makeText(context, "Có lỗi xảy ra!!!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(context, "Đã có lỗi xảy ra!!!", Toast.LENGTH_SHORT).show();
         }
     }
 
