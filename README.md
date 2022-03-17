@@ -38,5 +38,5 @@
 
 ## Tech Stack
 
-**RES Client:** [Retrofit] (https://square.github.io/retrofit/)
+**RES Client:** [Retrofit](https://square.github.io/retrofit/)
 
